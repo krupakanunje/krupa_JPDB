@@ -24,4 +24,4 @@ DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB su
 Install  Netbeans IDE tool to run this project
 
 # Run the project:
-Run file index.html
+Run file index.html that in public_html folder
